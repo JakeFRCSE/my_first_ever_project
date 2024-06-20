@@ -1,6 +1,6 @@
 This is the first project in my life ever.
 
-I learned App Inventor during the first semester of University.
+I learned App Inventor in the first semester of university.
 
 After the semester, I decided to make an app for my language exchange meetup.
 
