@@ -1,4 +1,4 @@
-This is my first project in my life ever.
+This is the first project in my life ever.
 
 I learned App Inventor during the first semester of University.
 
