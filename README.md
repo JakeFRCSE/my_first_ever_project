@@ -26,7 +26,7 @@ First version - 444 Blocks
 
 -----
 
-Second version - 623 Blocks (Fixed bug that happen in the last table)
+Second version - 623 Blocks (Fixed bug that happened in the last table's turn)
 
 <img width="934" alt="스크린샷 2024-03-30 190051" src="https://github.com/JakeFRCSE/my_first_ever_project/assets/162955476/4f7fbeb8-f3ac-48fb-ae33-3f9a4e2da8f9">
 <img width="935" alt="스크린샷 2024-03-30 190147" src="https://github.com/JakeFRCSE/my_first_ever_project/assets/162955476/68ed958b-bc2a-4143-a16d-5f847ab5050b">
